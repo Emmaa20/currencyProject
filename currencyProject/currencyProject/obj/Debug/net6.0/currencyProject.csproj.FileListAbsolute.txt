@@ -1,0 +1,15 @@
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\bin\Debug\net6.0\currencyProject.exe
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\bin\Debug\net6.0\currencyProject.deps.json
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\bin\Debug\net6.0\currencyProject.runtimeconfig.json
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\bin\Debug\net6.0\currencyProject.dll
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\bin\Debug\net6.0\currencyProject.pdb
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.csproj.AssemblyReference.cache
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.AssemblyInfoInputs.cache
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.AssemblyInfo.cs
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.csproj.CoreCompileInputs.cache
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.dll
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\obj\Debug\net6.0\refint\currencyProject.dll
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.pdb
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\obj\Debug\net6.0\currencyProject.genruntimeconfig.cache
+C:\Users\Elmira\Desktop\currencyProject\currencyProject\currencyProject\obj\Debug\net6.0\ref\currencyProject.dll
